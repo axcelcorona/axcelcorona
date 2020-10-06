@@ -2,3 +2,11 @@
     padding: 0;
     margin: 0;
 }
+
+:root{
+    --gray: #808080;
+}
+
+ topbar{
+     border-bottom: 1px solid #808080;
+ }
